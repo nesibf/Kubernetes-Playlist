@@ -1,3 +1,5 @@
+https://medium.com/@rvisingh1221/eks-nginx-load-balancer-monitor-with-prometheus-grafana-and-alerts-93a4c2ae6ef4
+
 # Kubernetes-Playlist
 
 This repository provides a comprehensive guide and Terraform scripts to set up an Amazon EKS cluster, install an NGINX Ingress Controller, and integrate an API Gateway with AWS EKS NLB.
